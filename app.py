@@ -10,4 +10,4 @@ def test():
     return "This is a test"
 
 if __name__ == "__main__"
-    app.run
+    app.run()
